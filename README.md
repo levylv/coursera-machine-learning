@@ -1,3 +1,3 @@
 # Coursera_ML_byAndrewNg
 
-Andrew Ng在Coursera上机器学习网课的作业。
+Coursera上Andrew Ng的机器学习网课的作业。
